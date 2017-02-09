@@ -26,5 +26,11 @@ body {
 	background-color: #FFA25F;
 }
 .belang{
-	background-color: #45EDFF;
+	background-color: #0DA2B2;
+	box-shadow: 10px 10px 5px #888888;
+	    border-radius: 25px;
+    border: 2px solid #B25D1E;
+    padding: 20px;
+    width: 200px;
+    height: 150px; 
 }
