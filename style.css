@@ -26,11 +26,12 @@ body {
 	background-color: #FFA25F;
 }
 .belang{
-	background-color: #0DA2B2;
-	box-shadow: 10px 10px 5px #888888;
+	background-color: #ACD2D4;
+	box-shadow: 10px 10px 5px #CCB6A2;
 	border-radius: 25px;
         border: 2px solid #B25D1E;
         padding: 20px;
+	color: #FFE3CA;
 }
 /* opmaak menubar, bron:https://codepen.io/vpdemo/pen/jEZPOK*/
 .menu {
