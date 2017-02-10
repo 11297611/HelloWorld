@@ -130,8 +130,6 @@ body {
 /*kram plaatje*/
 #Library {
    background-image: url("Tekeningdimi1.png");
-   height: 1000px;
-   width: 1009px;
 }
 
 #Library:hover {
