@@ -1,4 +1,14 @@
 body {
+	background-color: #FFE3CA;
+	/*background-image: url("liz.jpg");
+	background-repeat: no-repeat;*/
+	width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #B25D1E;
+	font-family: 'Belgrano', serif;
+}
+.indexje {
 	background-color: black;
 	/*background-image: url("liz.jpg");
 	background-repeat: no-repeat;*/
@@ -21,10 +31,9 @@ body {
 #menu {
 	margin: 0;
 	width: auto;
-	background-color: #565656;
+	background-color: #C4B8D4;
 	font-size: 16px;
 	font-family: 'Sirin Stencil', cursive;
-	font-weight: bold;
 	text-align: left;
 	padding: 8px;
 	border-radius: 4px;
@@ -52,7 +61,7 @@ body {
 }
 
 #menu a:hover {
-	background-color: #1B191B;
+	background-color: #CCB6A2;
 	color: #FFF;
 	border-radius: 20px;
 	-webkit-border-radius: 4px;
