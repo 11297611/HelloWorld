@@ -129,13 +129,13 @@ body {
 }
 /*kram plaatje*/
 #Library {
-   background-image: url('Tekeningdimi1.png');
+   background-image: url("Tekeningdimi1.png");
    height: 70px;
    width: 120px;
 }
 
 #Library:hover {
-	background-image: url('Tekeningdimi2.png');
+	background-image: url("liz.jpg");
 	height: 80px;
 	width: 120px;
 }
