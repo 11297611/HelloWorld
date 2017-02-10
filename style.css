@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
   font-family: 'Lato';
   font-style: normal;
   font-weight: 400;
@@ -6,14 +6,14 @@
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
-/* latin */
+/* latin
 @font-face {
   font-family: 'Lato';
   font-style: normal;
   font-weight: 400;
   src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v11/MDadn8DQ_3oT6kvnUq_2r_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
-}
+}*/
 
 body {
 	background-color: black;
@@ -21,12 +21,13 @@ body {
 	width: 960px;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: "Lato";
 	color: #B25D1E;
+	font-family: 'Titillium Web', sans-serif;
 	background-color: #FFA25F;
 }
 .belang{
 	background-color: #ACD2D4;
+	font-family: 'Titillium Web', sans-serif;
 	box-shadow: 10px 10px 5px #CCB6A2;
 	border-radius: 25px;
         border: 2px solid #B25D1E;
@@ -39,7 +40,7 @@ body {
      width: auto;
      background-color: #565656;
      font-size: 16px;
-     font-family: Tahoma, Geneva, sans-serif;
+     font-family: 'Titillium Web', sans-serif;
      font-weight: bold;
      text-align: left;
      padding: 8px;
