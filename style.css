@@ -128,7 +128,16 @@ body {
      -moz-border-radius: 20px;
      -o-border-radius: 20px;
 }
+/*kram plaatje*/
+#Library {
+   background-image: url('Tekeningdimi1.png');
+   height: 70px;
+   width: 120px;
+}
 
+#Library:hover {
+   background-image: url('Tekeningdimi2.png');
+}
 /*#menu li .active {
      background-color: #1B191B;
      color: #FFF;
