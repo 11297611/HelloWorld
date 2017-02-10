@@ -131,13 +131,13 @@ body {
 #Library {
 	background-image: url("Tekeningdimi1.jpg");
 	height: 600px;
-	width: 1000px;
+	width: 825px;
 }
 
 #Library:hover {
 	background-image: url("liz.jpg");
-	height: 800px;
-	width: 800;
+	height: 600;
+	width: 825px;
 }
 /*#menu li .active {
      background-color: #1B191B;
