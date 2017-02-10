@@ -23,12 +23,12 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	color: #B25D1E;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Rye', cursive;
 	background-color: #FFA25F;
 }
 .belang{
 	background-color: #ACD2D4;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Nova Mono', monospace;
 	box-shadow: 10px 10px 5px #CCB6A2;
 	border-radius: 25px;
         border: 2px solid #B25D1E;
