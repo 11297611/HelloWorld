@@ -9,6 +9,9 @@ body {
 	font-family: 'Belgrano', serif;
 	padding: 20px;
 }
+.p {
+	
+}
 .indexje {
 	background-color: #FFE3CA;
 	/*background-image: url("liz.jpg");
@@ -17,7 +20,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	color: #B25D1E;
-	font-family: 'Belgrano', serif;
+	font-family: 'Fredoka One', cursive;
 	padding: 20px;
 }
 .belang{
@@ -31,7 +34,7 @@ body {
 	width: auto;
 	background-color: #C4B8D4;
 	font-size: 16px;
-	font-family: 'Sirin Stencil', cursive;
+	font-family: 'Nova Cut', cursive;
 	text-align: left;
 	padding: 8px;
 	border-radius: 50%;
