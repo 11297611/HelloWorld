@@ -11,7 +11,7 @@ body {
 .indexje {
 	background-color: #FFE3CA;
 	/*background-image: url("liz.jpg");
-	background-repeat: no-repeat;*/
+	background-repeat: repeat;*/
 	width: 2000px;
 	margin-left: auto;
 	margin-right: auto;
