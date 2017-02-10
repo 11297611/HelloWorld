@@ -135,7 +135,9 @@ body {
 }
 
 #Library:hover {
-   background-image: url('Tekeningdimi2.png');
+	background-image: url('Tekeningdimi2.png');
+	height: 80px;
+	width: 120px;
 }
 /*#menu li .active {
      background-color: #1B191B;
