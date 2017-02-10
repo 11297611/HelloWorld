@@ -1,5 +1,5 @@
 body {
-	background-color: #FFE3CA;
+	background-color: black;
 	/*background-image: url("liz.jpg");
 	background-repeat: no-repeat;*/
 	width: 2000px;
@@ -9,7 +9,7 @@ body {
 	font-family: 'Belgrano', serif;
 }
 .indexje {
-	background-color: black;
+	background-color: #FFE3CA;
 	/*background-image: url("liz.jpg");
 	background-repeat: no-repeat;*/
 	width: 2000px;
