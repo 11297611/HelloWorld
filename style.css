@@ -19,13 +19,8 @@ body {
 	font-family: 'Belgrano', serif;
 }
 .belang{
-	background-color: #ACD2D4;
 	font-family: 'Caesar Dressing', cursive;
-	box-shadow: 10px 10px 5px #CCB6A2;
-	border-radius: 25px;
-        border: 2px solid #B25D1E;
-        padding: 20px;
-	color: #FFE3CA;
+	color: #DE7D95;
 }
 /* opmaak menubar, bron:https://codepen.io/vpdemo/pen/jEZPOK*/
 #menu {
