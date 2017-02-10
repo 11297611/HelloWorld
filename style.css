@@ -136,7 +136,7 @@ body {
 
 #Library:hover {
 	background-image: url("liz.jpg");
-	height: 600;
+	height: 600px;
 	width: 825px;
 }
 /*#menu li .active {
