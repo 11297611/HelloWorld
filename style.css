@@ -12,6 +12,13 @@ body {
 .p {
 	
 }
+
+html, body
+{
+    height: 100%;
+    width: 100%;
+}
+
 .indexje {
 	background-color: #FFE3CA;
 	/*background-image: url("liz.jpg");
