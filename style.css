@@ -10,6 +10,9 @@ body {
 	padding: 20px;
 }
 
+header {
+	top: 0;
+}
 
 body, html {
   width: 100%;
