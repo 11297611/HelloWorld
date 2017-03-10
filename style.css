@@ -34,7 +34,7 @@ body, html {
 	font-family: 'Caesar Dressing', cursive;
 	color: #DE7D95;
 	padding: 20px;
-	text-shadow: 2px 2px 2px #000;
+	text-shadow: 0 0 4px white, 0 -5px 4px #ff3, 2px -10px 6px #fd3, -2px -15px 11px #f80, 2px -25px 18px #f20;
 }
 /* opmaak menubar, bron:https://codepen.io/vpdemo/pen/jEZPOK*/
 #menu {
