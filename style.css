@@ -32,11 +32,11 @@ body, html {
 
 h1, h2 {
 	font-family: 'Caesar Dressing', cursive;
-	color: #DE7D95;
+	color: #FFF;
 	padding: 20px;
 	margin: auto;
 	width: 50%;
-	text-shadow: 2px 2px #FFF;
+	text-shadow: 2px 2px #DE7D95;
 }
 h1 {
 	size: 100px;
