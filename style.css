@@ -73,6 +73,8 @@ body, html {
 	background-color: #C4B8D4;
 	padding: 10px;
 	text-decoration: none;
+	border-radius: 5%;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 #menu a:hover {
