@@ -70,7 +70,8 @@ body, html {
 }
 
 #menu a {
-	color: #C4B8D4;
+	color: #FFF;
+	background-color: #C4B8D4;
 	padding: 10px;
 	text-decoration: none;
 }
