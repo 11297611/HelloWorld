@@ -42,7 +42,8 @@ body, html {
 }
 /* opmaak menubar, bron:https://codepen.io/vpdemo/pen/jEZPOK*/
 #menu {
-	margin: 0;
+	margin: auto;
+	width: 50%;
 	font-size: 16px;
 	font-family: 'Nova Cut', cursive;
 	text-align: left;
