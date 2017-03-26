@@ -146,3 +146,103 @@ h2 {
   height: 570px;
   z-index: 16;
 }
+
+#i1_2 {
+  background-image: url("i1-2.png");
+  position: absolute;
+  left: 296px;
+  top: 1838px;
+  width: 597px;
+  height: 619px;
+  z-index: 5;
+}
+
+#i2 {
+  background-image: url("i2.png");
+  position: absolute;
+  left: 276px;
+  top: 2546px;
+  width: 607px;
+  height: 601px;
+  z-index: 10;
+}
+
+#i3 {
+  background-image: url("i3.png");
+  position: absolute;
+  left: 276px;
+  top: 3186px;
+  width: 597px;
+  height: 633px;
+  z-index: 8;
+}
+
+#i3_2 {
+  background-image: url("i3-2.png");
+  position: absolute;
+  left: 266px;
+  top: 3888px;
+  width: 607px;
+  height: 612px;
+  z-index: 13;
+}
+
+#i4 {
+  background-image: url("i4.png");
+  position: absolute;
+  left: 266px;
+  top: 4528px;
+  width: 597px;
+  height: 629px;
+  z-index: 11;
+}
+
+#Gr1 {
+  background-image: url("Gr1.png");
+  position: absolute;
+  left: 956px;
+  top: 1204px;
+  width: 594px;
+  height: 562px;
+  z-index: 6;
+}
+
+#Gr2 {
+  background-image: url("Gr2.png");
+  position: absolute;
+  left: 943px;
+  top: 1833px;
+  width: 607px;
+  height: 664px;
+  z-index: 4;
+}
+
+#Gr2_2 {
+  background-image: url("Gr2-2.png");
+  position: absolute;
+  left: 936px;
+  top: 2552px;
+  width: 594px;
+  height: 599px;
+  z-index: 9;
+}
+
+#Gr3 {
+  background-image: url("Gr3.png");
+  position: absolute;
+  left: 923px;
+  top: 3181px;
+  width: 607px;
+  height: 646px;
+  z-index: 7;
+}
+
+#Gr4 {
+  background-image: url("Gr4.png");
+  position: absolute;
+  left: 926px;
+  top: 3894px;
+  width: 594px;
+  height: 593px;
+  z-index: 12;
+}
