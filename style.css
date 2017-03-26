@@ -129,7 +129,7 @@ h2 {
 	border:0px;
 }
 
-.Eindproject {
+#Eindproject {
   background-image: url("Eindproject.png");
   position: absolute;
   left: 275px;
@@ -138,7 +138,7 @@ h2 {
   height: 514px;
   z-index: 17;
 }
-.eerste_vierkant {
+#eerste_vierkant {
   background-image: url("eerste vierkant.png");
   position: absolute;
   left: 296px;
