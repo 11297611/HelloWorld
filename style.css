@@ -129,3 +129,21 @@ h2 {
 	border:0px;
 }
 
+.Eindproject {
+  background-image: url("Eindproject.png");
+  position: absolute;
+  left: 275px;
+  top: 376px;
+  width: 1256px;
+  height: 514px;
+  z-index: 17;
+}
+.eerste_vierkant {
+  background-image: url("eerste vierkant.png");
+  position: absolute;
+  left: 296px;
+  top: 1198px;
+  width: 607px;
+  height: 570px;
+  z-index: 16;
+}
