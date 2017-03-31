@@ -160,8 +160,9 @@ h2 {
 #eerste_vierkant {
   background-image: url("eerste vierkant.png");
   position: absolute;
+  left: 40px;
   top: 1198px;
-  width: 607px;
+  width: 30px; /*607px*/
   height: 570px;
   z-index: 16;
 }
