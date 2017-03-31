@@ -154,11 +154,13 @@ h2 {
   height: 514px;
   z-index: 17;
 }
+
 #groepsopdrachtenhead {
   background-image: url("groepsopdrachten tekst.png");
   position: absolute;
   left: 40px;
   top: 948px;
+  z-index: 19;
 }
 
 #eerste_vierkant {
