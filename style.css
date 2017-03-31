@@ -166,7 +166,7 @@ h2 {
   z-index: 4;
 }
 
-.groepsopdrachten_tekst {
+#groepsopdrachten_tekst {
   background-image: url("groepsopdrachten tekst.png");
   position: absolute;
   left: 730px;
