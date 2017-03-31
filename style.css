@@ -12,8 +12,6 @@ header {
 body, html {
 	width: 100%;
 	height: 100%;
-	background-image: url("bannersite2.png");
-	background-repeat: no-repeat;
 	background-position: right top;
 	background-size: cover;
 }
@@ -28,8 +26,8 @@ body, html {
 
 .indexje {
 	background-color: #FFE3CA;
-	/*background-image: url("liz.jpg");
-	background-repeat: repeat ;*/
+	background-image: url("bannersite2.png");
+	background-repeat: no-repeat;
 	margin-left: auto;
 	margin-right: auto;
 	color: #B25D1E;
