@@ -10,6 +10,8 @@ header {
 }
   
 body, html {
+	width: 100%;
+	height: 100%;
 	background-image: url("bannersite2.png");
 	background-repeat: no-repeat;
 	background-position: right top;
