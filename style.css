@@ -171,7 +171,7 @@ h2 {
   background-image: url("eerste vierkant.png");
   position: absolute;
   left: 40px;
-  top: 1078px;
+  top: 1098px;
   width: 607px;
   height: 570px;
   z-index: 16;
@@ -230,8 +230,8 @@ h2 {
 #Gr1 {
   background-image: url("Gr1.png");
   position: absolute;
-  left: 956px;
-  top: 1204px;
+  top: 1098px;
+  left: 730px;
   width: 594px;
   height: 562px;
   z-index: 6;
