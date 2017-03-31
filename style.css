@@ -149,10 +149,8 @@ h2 {
 #achtergrondprojectss {
   background-image: url("achtergrondprojects.png");
   position: absolute;
-  left: 199px;
-  top: 329px;
-  width: 1387px;
-  height: 4923px;
+  left: 0px;
+  top: 0px;
   z-index: 3;
 }
 
