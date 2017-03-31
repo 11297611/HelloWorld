@@ -61,7 +61,10 @@ h2 {
 	margin: auto;
 	width: 50%;
 }
+p { 
+	margin: 70px;
 	
+}
 .belang{
 	font-family: 'Caesar Dressing', cursive;
 	color: #DE7D95;
