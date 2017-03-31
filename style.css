@@ -249,7 +249,7 @@ h2 {
 #Gr2 {
   background-image: url("Gr2.png");
   position: absolute;
-  top: 1757px;/*1833px;*/
+  top: 0px;/*1757px;1833px;*/
   left: 730px;
   width: 607px;
   height: 664px;
