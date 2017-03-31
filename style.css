@@ -76,9 +76,9 @@ h2 {
 
 .kop {
   line-height: 1.2;
-  text-align: center;
   position: absolute;
-  top: 50px;
+  left: 456px;
+  top: 70px;
   z-index: 19;
 }
 
