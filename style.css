@@ -155,13 +155,17 @@ h2 {
   z-index: 17;
 }
 
-#groepsopdrachtenhead {
-  background-image: url("groepsopdrachten tekst.png");
+
+#individuele_opdrachten_tekst {
+  background-image: url("individuele opdrachten tekst.png");
   position: absolute;
   left: 40px;
   top: 948px;
-  z-index: 19;
+  width: 602px;
+  height: 186px;
+  z-index: 4;
 }
+
 
 #eerste_vierkant {
   background-image: url("eerste vierkant.png");
