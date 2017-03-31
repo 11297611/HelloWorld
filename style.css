@@ -44,7 +44,7 @@ body, html {
 	background-color: #FFE3CA;
 	margin-left: auto;
 	margin-right: auto;
-	
+	background-size: cover;
 }
 
 
@@ -267,7 +267,7 @@ h2 {
   z-index: 12;
 }
 
-#achtergrondprojectss {
+/*#achtergrondprojectss {
   background-image: url("achtergrondprojects.png");
   position: absolute;
   left: 0px;
@@ -275,4 +275,4 @@ h2 {
   z-index: 20;
   background-position: right top;
   background-color: #FFE3CA;
-}
+}*/
