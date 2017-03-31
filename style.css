@@ -38,6 +38,15 @@ body, html {
 	color: #B25D1E;
 	font-family: 'Fredoka One', cursive;
 }
+.projectspagina {
+	background-image: url("achtergrondprojects.png");
+	background-repeat: no-repeat;
+	background-color: #FFE3CA;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
 
 h1, h2 {
 	font-family: 'Caesar Dressing', cursive;
@@ -132,7 +141,8 @@ h2 {
 #Eindproject {
   background-image: url("Eindproject.png");
   position: absolute;
-  top: 376px;
+  left:40px;
+  top: 327px;
   width: 1256px;
   height: 514px;
   z-index: 17;
