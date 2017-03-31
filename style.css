@@ -69,9 +69,9 @@ p {
 	
 }
 .foto_about_me {
-	padding: 20px;
-	width:500px;
-	height:500px;
+	padding-right: 20px;
+	width:600px;
+	height:600px;
 }
 .belang{
 	font-family: 'Caesar Dressing', cursive;
