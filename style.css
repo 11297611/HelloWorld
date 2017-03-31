@@ -146,13 +146,7 @@ h2 {
 	width: 825px;
 	border:0px;
 }
-#achtergrondprojectss {
-  background-image: url("achtergrondprojects.png");
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  z-index: 20;
-}
+
 
 #Eindproject {
   background-image: url("Eindproject.png");
@@ -271,4 +265,14 @@ h2 {
   width: 594px;
   height: 593px;
   z-index: 12;
+}
+
+#achtergrondprojectss {
+  background-image: url("achtergrondprojects.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 20;
+  background-position: right top;
+  background-color: #FFE3CA;
 }
