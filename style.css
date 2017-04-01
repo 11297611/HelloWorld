@@ -44,9 +44,8 @@ body, html {
 }
 
 .progresspagina {
-	position: absolute;
-  	left: 40px;
-  	top: 1098px;
+  	padding-left: 40px;
+  	padding-top: 1098px;
 }
 
 h1, h2 {
