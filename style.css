@@ -43,6 +43,11 @@ body, html {
 	background-size: cover;
 }
 
+.progresspagina {
+	position: absolute;
+  	left: 40px;
+  	top: 1098px;
+}
 
 h1, h2 {
 	font-family: 'Caesar Dressing', cursive;
